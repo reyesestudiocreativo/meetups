@@ -38,4 +38,4 @@ Videos :
 * Parte 2 : https://www.facebook.com/proinchile/videos/1829402907324699/
 * Parte 3 : https://www.facebook.com/proinchile/videos/1829411803990476/
 
-
+** Pronto seran recompilados y subidos a nuestro canal de youtube pero los 3 en uno :)
