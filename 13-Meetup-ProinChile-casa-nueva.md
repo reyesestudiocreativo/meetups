@@ -1,7 +1,7 @@
 
-# Nuestro 13 meetup se realizo en las instalaciones de  [Muelle119 Cowork](http://www.muelle119.cl/).
+# Realizado en las instalaciones de  [Muelle119 Cowork](http://www.muelle119.cl/).
 
-![alt text](https://s3-sa-east-1.amazonaws.com/proinchile/sponsor/unnamed.png)
+![alt text](https://s3-sa-east-1.amazonaws.com/proinchile/sponsor/unnamed.png = 250x250)
 
 
 
